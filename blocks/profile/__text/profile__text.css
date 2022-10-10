@@ -1,7 +1,6 @@
 .profile__text {
   max-width: 336px;
   display: grid;
-  align-items: center;
   gap: 16px;
 }
 
