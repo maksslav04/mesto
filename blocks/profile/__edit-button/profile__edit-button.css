@@ -6,8 +6,7 @@
   background-color: rgba(0, 0, 0, .0);
   background-image: url(../../../image/edit-button.svg);
   background-size: 24px 24px;
-  border: none;
-  outline: 1px solid #ffffff;
+  border: 1px solid #ffffff;
   cursor: pointer;
 }
 
